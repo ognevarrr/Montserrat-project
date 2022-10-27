@@ -1,0 +1,14 @@
+html{
+  background:#FAF9F9;
+  display: block;
+  height: 100%;
+}
+body {
+  width: 1440px;
+  height: 10156px;
+  background-color: #FAF9F9;
+  font-family: 'Montserrat', sans-serif;
+  display: block;
+  margin: 0 auto;
+  position: relative;
+}
